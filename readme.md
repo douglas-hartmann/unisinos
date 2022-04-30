@@ -1,4 +1,4 @@
-![Logo da empresa](./images/logo-empresa)
+![Logo da empresa](./images/logo-empresa.png)
 #### Nome da empresa
 ### Título do projeto
 ##### Data: 

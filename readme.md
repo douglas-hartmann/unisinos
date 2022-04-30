@@ -1,4 +1,4 @@
-![Logo da empresa](./images/logo-empresa.png)
+![Logo da empresa](https://github.com/douglas-hartmann/unisinos/blob/master/images/logo-empresa.jpg)
 #### Nome da empresa
 ### Título do projeto
 ##### Data: 
@@ -34,7 +34,7 @@ Deve apresentar um resumo do projeto.
 
 ## Diagramas
 Partes e outros sistemas envolvidos com o projeto, e como se integram com o mesmo.
-!["nome_opcional"]("local_da_imagem)
+![nome_opcional](https://github.com/douglas-hartmann/unisinos/blob/master/images/logo-empresa.jpg)
 
 ## Componentes utilizados 
 Listar todos os componentes de hardware utilizados.
